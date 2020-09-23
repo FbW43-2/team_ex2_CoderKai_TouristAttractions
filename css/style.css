@@ -1,6 +1,10 @@
 body {
   background-color: lightgray;
 }
-.divabdullah {background-color: yellow}
+.divabdullah {
+  background-color: yellow;
+}
 
-.divabdullah p{color: red;}
+.divabdullah p {
+  color: red;
+}
