@@ -2,9 +2,12 @@ body {
   background-color: lightgray;
 }
 .divabdullah {
-  background-color:yellow;
+  background-color:yellow; 
+  padding: 50px;
+  margin: 50px;
+
 }
 
 .divabdullah p {
-  color: red;;
+  color: black;;
 }
